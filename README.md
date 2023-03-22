@@ -3,4 +3,4 @@
 
 测试
 
-[这是一个测试链接](www.baidu.com)
+[这是一个测试链接](https://www.baidu.com)
