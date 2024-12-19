@@ -44,7 +44,7 @@ https://mp.weixin.qq.com/s/80cF7Is6yeaZrE-dyQNUiA
 build/make/target/product/base_system.mk
 
 备注：BUILD_ID位于build/make/core/build_id.mk
-aosp_crosshatch-user 12.0.0 SP1A.210812.016.A1 eng.yougae.20240902.122508 release-keys
+aosp_crosshatch-user 12.0.0 SP1A.210812.016.A1 eng.yeji.20240902.122508 release-keys
 
 //root定制
 system/extras/su/Android.mk
@@ -52,8 +52,6 @@ system/core/libcutils/fs_config.cpp
 system/sepolicy/private/file_contexts
 build/make/target/product/security/Android.mk
 system/extra/su
-
-
 
 //adb root
 system/core/rootdir/init.rc
